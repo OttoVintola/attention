@@ -11,3 +11,6 @@ wheels/
 
 # ruff
 .ruff_cache/
+
+# MacOS
+.DS_Store
