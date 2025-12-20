@@ -1,23 +1,8 @@
 ## Attention
 
-In this repository, there are various implementations of the attention mechanism used often in deep learning models. 
+In this repository, there are various implementations of the attention mechanism used often in deep learning.
+The motivation is to provide some intuition of the attention module in the domain of NLP.
 
 
-## To use
-
-**Seriously, don't use this code in production.** This is just a collection of implementations for educational purposes.
-**Use PyTorch or TensorFlow instead!**
-
-1. Clone the repository:
-```bash
-git clone https://github.com/OttoVintola/attention.git
-cd attention
-```
-
-2. Install the required packages using (uv)[https://docs.astral.sh/uv/getting-started/installation/]
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-uv pip install -r requirements.txt
-```
 
 
