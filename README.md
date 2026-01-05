@@ -14,10 +14,17 @@ git clone https://github.com/OttoVintola/attention.git
 cd attention
 ```
 
-2. Install the required packages using (uv)[https://docs.astral.sh/uv/getting-started/installation/]
+2. Install the required packages using [uv](https://docs.astral.sh/uv/getting-started/installation/)
+    - If you don't have `uv` installed, you can install it using the following command:
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+    - Then, install the required packages:
+```bash
+uv install
 uv pip install -r requirements.txt
 ```
+
+
 
 
